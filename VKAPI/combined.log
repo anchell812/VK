@@ -1,0 +1,291 @@
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Check if Main Page opens"}
+{"level":"info","message":"Checking presence of Main Page unique element"}
+{"level":"info","message":"Click on Sign in button"}
+{"level":"info","message":"Check if Authorization page opens"}
+{"level":"info","message":"Checking presence of Authorization page unique element"}
+{"level":"info","message":"Sending data to Login input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Sending data to Password input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Check if User page opens after 6000"}
+{"level":"info","message":"Waiting for element present"}
+{"level":"info","message":"Checking presence of User page unique element"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Sending post request with random message"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Click on Show new posts button after 6000"}
+{"level":"info","message":"Getting text from Newest wall post"}
+{"level":"info","message":"Getting attribute of Author of newest post"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Getting upload server data"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":"https://pu.vk.com/c221232/ss2130/upload.php?act=do_add&mid=627657327&aid=-14&gid=0&hash=bf8a300f201b4018bad13c3f9c80b715&rhash=41edc56f5531cd96d8ece104bcbd3675&swfupload=1&api=1&wallphoto=1"}
+{"level":"info","message":"Uploading photo"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Saving wall photo"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":457250920}
+{"level":"info","message":"Editing post request"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Click on All photos after 6000"}
+{"level":"info","message":"Click on Wall photo album after 6000"}
+{"level":"info","message":"Click on First wall photo after 6000"}
+{"level":"info","message":"Click on More button after 6000"}
+{"level":"info","message":"Getting attribute of Link for download image"}
+{"level":"info","message":"Downloading photo"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Check if Main Page opens"}
+{"level":"info","message":"Checking presence of Main Page unique element"}
+{"level":"info","message":"Click on Sign in button"}
+{"level":"info","message":"Check if Authorization page opens"}
+{"level":"info","message":"Checking presence of Authorization page unique element"}
+{"level":"info","message":"Sending data to Login input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Sending data to Password input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Check if User page opens after 6000"}
+{"level":"info","message":"Waiting for element present"}
+{"level":"info","message":"Checking presence of User page unique element"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Sending post request with random message"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Click on Show new posts button after 6000"}
+{"level":"info","message":"Getting text from Newest wall post"}
+{"level":"info","message":"Getting attribute of Author of newest post"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Getting upload server data"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":"https://pu.vk.com/c228231/ss2031/upload.php?act=do_add&mid=627657327&aid=-14&gid=0&hash=5ed1b684f8ba5e65c027b2c7847c661d&rhash=b05443e4cb5e5e2e4b045a538488e53b&swfupload=1&api=1&wallphoto=1"}
+{"level":"info","message":"Uploading photo"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Saving wall photo"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":457250921}
+{"level":"info","message":"Editing post request"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Click on All photos after 6000"}
+{"level":"info","message":"Click on Wall photo album after 6000"}
+{"level":"info","message":"Click on First wall photo after 6000"}
+{"level":"info","message":"Click on More button after 6000"}
+{"level":"info","message":"Getting attribute of Link for download image"}
+{"level":"info","message":"Downloading photo"}
+{"level":"info","message":"Photos are the same"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Check if Main Page opens"}
+{"level":"info","message":"Checking presence of Main Page unique element"}
+{"level":"info","message":"Click on Sign in button"}
+{"level":"info","message":"Check if Authorization page opens"}
+{"level":"info","message":"Checking presence of Authorization page unique element"}
+{"level":"info","message":"Sending data to Login input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Sending data to Password input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Check if User page opens after 6000"}
+{"level":"info","message":"Waiting for element present"}
+{"level":"info","message":"Checking presence of User page unique element"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Sending post request with random message"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Click on Show new posts button after 6000"}
+{"level":"info","message":"Getting text from Newest wall post"}
+{"level":"info","message":"Getting attribute of Author of newest post"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Getting upload server data"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":"https://pu.vk.com/c519136/ss2226/upload.php?act=do_add&mid=627657327&aid=-14&gid=0&hash=34ea82d0fcb9352847d2933641396019&rhash=d12c7074d8c0063d10f89f03b03f22af&swfupload=1&api=1&wallphoto=1"}
+{"level":"info","message":"Uploading photo"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Saving wall photo"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":457250922}
+{"level":"info","message":"Editing post request"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Click on All photos after 6000"}
+{"level":"info","message":"Click on Wall photo album after 6000"}
+{"level":"info","message":"Click on First wall photo after 6000"}
+{"level":"info","message":"Click on More button after 6000"}
+{"level":"info","message":"Getting attribute of Link for download image"}
+{"level":"info","message":"Downloading photo"}
+{"level":"info","message":"Photos are the same"}
+{"level":"info","message":"Click on Close photo button after 6000"}
+{"level":"info","message":"Click on News button after 6000"}
+{"level":"info","message":"Waiting for element absense"}
+{"level":"info","message":"Getting text from Wall post after editing"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Add comment to wall`s post"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":{"comment_id":31417,"parents_stack":[]}}
+{"level":"info","message":"Scrolling to Show comment button"}
+{"level":"info","message":"Click on Show comment button after 6000"}
+{"level":"info","message":"Getting attribute of Author of wall`s post comment"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Check if Main Page opens"}
+{"level":"info","message":"Checking presence of Main Page unique element"}
+{"level":"info","message":"Click on Sign in button"}
+{"level":"info","message":"Check if Authorization page opens"}
+{"level":"info","message":"Checking presence of Authorization page unique element"}
+{"level":"info","message":"Sending data to Login input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Sending data to Password input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Check if User page opens after 6000"}
+{"level":"info","message":"Waiting for element present"}
+{"level":"info","message":"Checking presence of User page unique element"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Sending post request with random message"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Click on Show new posts button after 6000"}
+{"level":"info","message":"Getting text from Newest wall post"}
+{"level":"info","message":"Getting attribute of Author of newest post"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Getting upload server data"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":"https://pu.vk.com/c850620/ss2287/upload.php?act=do_add&mid=627657327&aid=-14&gid=0&hash=7f4c07601c9892a020e13cffc5bc137d&rhash=be77c6403c760608235dac4d6af568be&swfupload=1&api=1&wallphoto=1"}
+{"level":"info","message":"Uploading photo"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Saving wall photo"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":457250923}
+{"level":"info","message":"Editing post request"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Click on All photos after 6000"}
+{"level":"info","message":"Click on Wall photo album after 6000"}
+{"level":"info","message":"Click on First wall photo after 6000"}
+{"level":"info","message":"Click on More button after 6000"}
+{"level":"info","message":"Getting attribute of Link for download image"}
+{"level":"info","message":"Downloading photo"}
+{"level":"info","message":"Photos are the same"}
+{"level":"info","message":"Click on Close photo button after 6000"}
+{"level":"info","message":"Click on News button after 6000"}
+{"level":"info","message":"Waiting for element absense"}
+{"level":"info","message":"Getting text from Wall post after editing"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Add comment to wall`s post"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":{"comment_id":31419,"parents_stack":[]}}
+{"level":"info","message":"Scrolling to Show comment button"}
+{"level":"info","message":"Click on Show comment button after 6000"}
+{"level":"info","message":"Getting attribute of Author of wall`s post comment"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Check if Main Page opens"}
+{"level":"info","message":"Checking presence of Main Page unique element"}
+{"level":"info","message":"Click on Sign in button"}
+{"level":"info","message":"Check if Authorization page opens"}
+{"level":"info","message":"Checking presence of Authorization page unique element"}
+{"level":"info","message":"Sending data to Login input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Sending data to Password input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Check if User page opens after 6000"}
+{"level":"info","message":"Waiting for element present"}
+{"level":"info","message":"Checking presence of User page unique element"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Sending post request with random message"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Click on Show new posts button after 6000"}
+{"level":"info","message":"Getting text from Newest wall post"}
+{"level":"info","message":"Getting attribute of Author of newest post"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Getting upload server data"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":"https://pu.vk.com/c233131/ss2041/upload.php?act=do_add&mid=627657327&aid=-14&gid=0&hash=5f959165334458a7b050c99e9c94b854&rhash=f14f5a8f604d46ed4077813952fa652d&swfupload=1&api=1&wallphoto=1"}
+{"level":"info","message":"Uploading photo"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Saving wall photo"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":457250924}
+{"level":"info","message":"Editing post request"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Click on All photos after 6000"}
+{"level":"info","message":"Click on Wall photo album after 6000"}
+{"level":"info","message":"Click on First wall photo after 6000"}
+{"level":"info","message":"Click on More button after 6000"}
+{"level":"info","message":"Getting attribute of Link for download image"}
+{"level":"info","message":"Downloading photo"}
+{"level":"info","message":"Photos are the same"}
+{"level":"info","message":"Click on Close photo button after 6000"}
+{"level":"info","message":"Click on News button after 6000"}
+{"level":"info","message":"Waiting for element absense"}
+{"level":"info","message":"Getting text from Wall post after editing"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Add comment to wall`s post"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":{"comment_id":31421,"parents_stack":[]}}
+{"level":"info","message":"Scrolling to Show comment button"}
+{"level":"info","message":"Click on Show comment button after 6000"}
+{"level":"info","message":"Getting attribute of Author of wall`s post comment"}
+{"level":"info","message":"Click on Like button after 6000"}
+{"level":"info","message":"Getting likes of wall`s post"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":"Deleting wall post"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":{"response":1}}
+{"level":"info","message":"Getting text from Wall post after editing"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Check if Main Page opens"}
+{"level":"info","message":"Checking presence of Main Page unique element"}
+{"level":"info","message":"Click on Sign in button"}
+{"level":"info","message":"Check if Authorization page opens"}
+{"level":"info","message":"Checking presence of Authorization page unique element"}
+{"level":"info","message":"Sending data to Login input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Sending data to Password input field"}
+{"level":"info","message":"Deleting image"}
+{"level":"info","message":"Opening https://vk.com/"}
+{"level":"info","message":"Check if Main Page opens"}
+{"level":"info","message":"Checking presence of Main Page unique element"}
+{"level":"info","message":"Click on Sign in button"}
+{"level":"info","message":"Check if Authorization page opens"}
+{"level":"info","message":"Checking presence of Authorization page unique element"}
+{"level":"info","message":"Sending data to Login input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Sending data to Password input field"}
+{"level":"info","message":"Click on Submit button"}
+{"level":"info","message":"Check if User page opens after 6000"}
+{"level":"info","message":"Waiting for element present"}
+{"level":"info","message":"Checking presence of User page unique element"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Sending post request with random message"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Click on Show new posts button after 6000"}
+{"level":"info","message":"Getting text from Newest wall post"}
+{"level":"info","message":"Getting attribute of Author of newest post"}
+{"level":"info","message":"Creating random message"}
+{"level":"info","message":"Getting upload server data"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":"https://pu.vk.com/c844628/ss2111/upload.php?act=do_add&mid=627657327&aid=-14&gid=0&hash=d9211da40fa0b546e13159ca7e6cd861&rhash=592a42b506f9d16aa095fd9b32e06f1e&swfupload=1&api=1&wallphoto=1"}
+{"level":"info","message":"Uploading photo"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Saving wall photo"}
+{"level":"info","message":"Send get request"}
+{"level":"info","message":457250925}
+{"level":"info","message":"Editing post request"}
+{"level":"info","message":"Send post request"}
+{"level":"info","message":"Click on All photos after 6000"}
+{"level":"info","message":"Click on Wall photo album after 6000"}
+{"level":"info","message":"Click on First wall photo after 6000"}
+{"level":"info","message":"Click on More button after 6000"}
+{"level":"info","message":"Getting attribute of Link for download image"}
+{"level":"info","message":"Downloading photo"}
+{"level":"info","message":"Photos are the same"}
+{"level":"info","message":"Deleting image"}

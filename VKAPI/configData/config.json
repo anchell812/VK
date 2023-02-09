@@ -1,0 +1,15 @@
+{
+    "url":"https://vk.com/",
+    "baseUrlForApi":"https://api.vk.com/method/",
+    "v": "5.131",
+    "wallPost":"wall.post?",
+    "editWallPost":"wall.edit?",
+    "addComment":"wall.createComment?",
+    "getLikes":"wall.getLikes?",
+    "deletePost":"wall.delete?",
+    "getUploadServerAlbum":"photos.getUploadServer?",
+    "getUploadServerWall":"photos.getWallUploadServer?",
+    "saveWallPhoto":"photos.saveWallPhoto?",
+    "downloadDir": "../VKAPI/temp/"
+
+}
